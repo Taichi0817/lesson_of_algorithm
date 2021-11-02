@@ -18,4 +18,4 @@ def bogo_sort(numbers):
 
 if __name__ == '__main__':
     print(bogo_sort([1, 6, 3, 2, 4, 5]))
-    
+
